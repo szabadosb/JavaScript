@@ -34,6 +34,27 @@ Mi az interpreter? (parancsértelmező)
 - PHP -> php.exe
 - JavaScript -> "böngésző"
 
+## Javascript kód beágyazása HTML-be
+
+1. `<Script>` - tick  tag-ek közé tesszük
+2. .js fájlba, ` <script src="script.js"></script>`
 
 
+```JavaScript
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+```
+
+
+
+- ´<asd>´ - becktick
+- / - slash
+- \ - backslash
+
+
+
+```
+document.getElementById("demo").innerHTML = "My First JavaScript";
+```
 
