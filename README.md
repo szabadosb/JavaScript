@@ -57,4 +57,7 @@ function myFunction() {
 ```
 document.getElementById("demo").innerHTML = "My First JavaScript";
 ```
+## Setting up programming environment
+- code editor (VSCode)
+- copiler vagy interpeter (JacaScript -> böngésző)
 
